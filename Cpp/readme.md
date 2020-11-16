@@ -1375,6 +1375,7 @@ int main() {
 
 	return 0;
 }
+```
 
 # core programming(object-oriented)
 ## Memory partition model
